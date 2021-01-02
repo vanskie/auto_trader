@@ -1,0 +1,4 @@
+This is an auto-trader for Etoro.
+It day-trades for you, without any interaction from your side.
+You give it $50 dollars and it starts scanning a specific stock every minute.
+It then decides wheter to buy or sell, it also provides history statistics in discord.
